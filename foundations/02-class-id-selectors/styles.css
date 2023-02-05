@@ -1,0 +1,30 @@
+.number1 {
+    background-color: lightsalmon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+#number2 {
+    font-family: Arial, sans-serif;
+    color: blue;
+    font-size: 40px;
+}
+
+.number3 {
+    background-color: lightsalmon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+
+#number4 {
+    font-family: Arial, sans-serif;
+    background-color: greenyellow;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.number5 {
+    background-color: lightsalmon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
